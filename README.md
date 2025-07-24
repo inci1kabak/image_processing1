@@ -1,1 +1,1 @@
-image processing
+IMAGE PROCESSİNG
